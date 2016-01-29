@@ -12,4 +12,4 @@ additional:
  - name: Примеры реализации PSR-4
 ---
 
-{% include fig-standards/accepted/ru/PSR-4-autoloader-examples.md %}
+{% include fig-standards-origin/accepted/ru/PSR-4-autoloader-examples.md %}

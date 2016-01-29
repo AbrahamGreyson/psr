@@ -22,4 +22,4 @@ translations:
  - name: Spanish
 ---
 
-{% include fig-standards/accepted/es/PSR-2-guia-de-estilo-de-codificacion.md %}
+{% include fig-standards-origin/accepted/es/PSR-2-guia-de-estilo-de-codificacion.md %}

@@ -10,4 +10,4 @@ additional:
  - name: Метадокумент PSR-2
 ---
 
-{% include fig-standards/accepted/ru/PSR-2-coding-style-guide-meta.md %}
+{% include fig-standards-origin/accepted/ru/PSR-2-coding-style-guide-meta.md %}

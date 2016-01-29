@@ -12,4 +12,4 @@ additional:
  - name: Primeri izvedbe PSR-4
 ---
 
-{% include fig-standards/accepted/sl/PSR-4-autoloader-examples.md %}
+{% include fig-standards-origin/accepted/sl/PSR-4-autoloader-examples.md %}

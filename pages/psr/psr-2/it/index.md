@@ -22,4 +22,4 @@ translations:
    path: /pages/psr/psr-2/es
 ---
 
-{% include fig-standards/accepted/it/PSR-2-coding-style-guide.md %}
+{% include fig-standards-origin/accepted/it/PSR-2-coding-style-guide.md %}

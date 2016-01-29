@@ -26,4 +26,4 @@ redirect_from:
  - /pages/psr/psr-0/pt_br/
 ---
 
-{% include fig-standards/accepted/pt-BR/PSR-0.md %}
+{% include fig-standards-origin/accepted/pt-BR/PSR-0.md %}

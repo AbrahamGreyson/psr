@@ -18,4 +18,4 @@ translations:
    path: /pages/psr/psr-3/es
 ---
 
-{% include fig-standards/accepted/sl/PSR-3-logger-interface.md %}
+{% include fig-standards-origin/accepted/sl/PSR-3-logger-interface.md %}

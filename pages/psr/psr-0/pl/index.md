@@ -22,4 +22,4 @@ translations:
    path: /pages/psr/psr-0/es
 ---
 
-{% include fig-standards/accepted/pl/PSR-0.md %}
+{% include fig-standards-origin/accepted/pl/PSR-0.md %}

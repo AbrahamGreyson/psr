@@ -26,4 +26,4 @@ additional:
    path: /pages/psr/psr-2/sl/meta
 ---
 
-{% include fig-standards/accepted/sl/PSR-2-coding-style-guide.md %}
+{% include fig-standards-origin/accepted/sl/PSR-2-coding-style-guide.md %}

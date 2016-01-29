@@ -18,4 +18,4 @@ translations:
  - name: Spanish
 ---
 
-{% include fig-standards/accepted/es/PSR-3-interfaz-de-logger.md %}
+{% include fig-standards-origin/accepted/es/PSR-3-interfaz-de-logger.md %}

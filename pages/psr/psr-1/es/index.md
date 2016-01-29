@@ -22,4 +22,4 @@ translations:
  - name: Spanish
 ---
 
-{% include fig-standards/accepted/es/PSR-1-codificacion-estandar-basica.md %}
+{% include fig-standards-origin/accepted/es/PSR-1-codificacion-estandar-basica.md %}

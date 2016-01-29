@@ -14,4 +14,4 @@ additional:
    path: /pages/psr/psr-7/sl/meta
 ---
 
-{% include fig-standards/accepted/sl/PSR-7-http-message.md %}
+{% include fig-standards-origin/accepted/sl/PSR-7-http-message.md %}

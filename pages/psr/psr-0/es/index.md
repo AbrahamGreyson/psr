@@ -22,4 +22,4 @@ translations:
  - name: Spanish
 ---
 
-{% include fig-standards/accepted/es/PSR-0.md %}
+{% include fig-standards-origin/accepted/es/PSR-0.md %}

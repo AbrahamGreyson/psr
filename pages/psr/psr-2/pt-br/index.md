@@ -30,4 +30,4 @@ redirect_from:
  - /pages/psr/psr-2/pt_br/
 ---
 
-{% include fig-standards/accepted/pt-BR/PSR-2-guia-de-estilo-de-codificacao.md %}
+{% include fig-standards-origin/accepted/pt-BR/PSR-2-guia-de-estilo-de-codificacao.md %}

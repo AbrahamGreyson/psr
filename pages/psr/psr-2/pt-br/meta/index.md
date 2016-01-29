@@ -10,4 +10,4 @@ additional:
  - name: PSR-2 Meta Documento
 ---
 
-{% include fig-standards/accepted/pt-BR/PSR-2-guia-de-estilo-de-codificacao-meta.md %}
+{% include fig-standards-origin/accepted/pt-BR/PSR-2-guia-de-estilo-de-codificacao-meta.md %}

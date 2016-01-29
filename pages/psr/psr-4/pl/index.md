@@ -18,4 +18,4 @@ translations:
    path: /pages/psr/psr-4/sl
 ---
 
-{% include fig-standards/accepted/pl/PSR-4-autoloader.md %}
+{% include fig-standards-origin/accepted/pl/PSR-4-autoloader.md %}

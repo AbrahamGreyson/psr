@@ -22,4 +22,4 @@ translations:
    path: /pages/psr/psr-1/es
 ---
 
-{% include fig-standards/accepted/fr/PSR-1-basic-coding-standard.md %}
+{% include fig-standards-origin/accepted/fr/PSR-1-basic-coding-standard.md %}

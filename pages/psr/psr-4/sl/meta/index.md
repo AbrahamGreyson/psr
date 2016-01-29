@@ -12,4 +12,4 @@ additional:
    path: /pages/psr/psr-4/sl/examples
 ---
 
-{% include fig-standards/accepted/sl/PSR-4-autoloader-meta.md %}
+{% include fig-standards-origin/accepted/sl/PSR-4-autoloader-meta.md %}

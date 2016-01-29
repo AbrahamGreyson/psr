@@ -26,4 +26,4 @@ redirect_from:
  - /pages/psr/psr-1/pt_br/
 ---
 
-{% include fig-standards/accepted/pt-BR/PSR-1-padrao-basico-de-codificacao.md %}
+{% include fig-standards-origin/accepted/pt-BR/PSR-1-padrao-basico-de-codificacao.md %}

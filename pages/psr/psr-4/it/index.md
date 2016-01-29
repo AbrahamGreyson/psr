@@ -24,4 +24,4 @@ additional:
    path: /pages/psr/psr-4/it/examples
 ---
 
-{% include fig-standards/accepted/it/PSR-4-autoloader.md %}
+{% include fig-standards-origin/accepted/it/PSR-4-autoloader.md %}

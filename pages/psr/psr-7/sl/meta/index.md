@@ -10,4 +10,4 @@ additional:
  - name: PSR-7: Sporočilo HTTP meta dokument
 ---
 
-{% include fig-standards/accepted/sl/PSR-7-http-message-meta.md %}
+{% include fig-standards-origin/accepted/sl/PSR-7-http-message-meta.md %}
