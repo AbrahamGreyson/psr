@@ -26,29 +26,34 @@
     <div class="center">
         <a class="site_logo" href="/">
             <span class="site_logo__short_name">PHP-FIG</span>
-            <span class="site_logo__long_name">The PHP Framework Interop Group</span>
+            <span class="site_logo__long_name">PHP 框架互用工作组</span>
         </a>
         <nav class="site_menu">
             <label class="site_menu__dropdown_button" for="site_menu__dropdown_checkbox">Menu</label>
             <input class="site_menu__dropdown_checkbox" id="site_menu__dropdown_checkbox" type="checkbox">
             <ul class="site_menu__list">
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url == '/' %}site_menu__link--active{% endif %}" href="/">Home</a>
+                    <a
+                            class="site_menu__link {% if page.url == '/' %}site_menu__link--active{% endif %}" href="/">主页</a>
                 </li>
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url contains '/psr/' %}site_menu__link--active{% endif %}" href="/psr/">Recommendations (PSRs)</a>
+                    <a
+                            class="site_menu__link {% if page.url contains '/psr/' %}site_menu__link--active{% endif %}" href="/psr/">推荐（PSR）</a>
                 </li>
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url contains '/members/' %}site_menu__link--active{% endif %}" href="/members/">Members</a>
+                    <a
+                            class="site_menu__link {% if page.url contains '/members/' %}site_menu__link--active{% endif %}" href="/members/">成员</a>
                 </li>
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url contains '/bylaws/' %}site_menu__link--active{% endif %}" href="/bylaws/">Bylaws</a>
+                    <a
+                            class="site_menu__link {% if page.url contains '/bylaws/' %}site_menu__link--active{% endif %}" href="/bylaws/">章程</a>
                 </li>
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url contains '/faqs/' %}site_menu__link--active{% endif %}" href="/faqs/">FAQs</a>
+                    <a
+                            class="site_menu__link {% if page.url contains '/faqs/' %}site_menu__link--active{% endif %}" href="/faqs/">常见问题</a>
                 </li>
                 <li class="site_menu__item">
-                    <a class="site_menu__link {% if page.url contains '/get-involved/' %}site_menu__link--active{% endif %}" href="/get-involved/">Get Involved</a>
+                    <a class="site_menu__link {% if page.url contains '/get-involved/' %}site_menu__link--active{% endif %}" href="/get-involved/">参与</a>
                 </li>
             </ul>
         </nav>
