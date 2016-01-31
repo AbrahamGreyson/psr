@@ -1,32 +1,25 @@
-Voting Protocol
+投票协议
 ===============
 
-1. Only voting members and FIG Secretaries may initiate a call for votes on a measure.
+1. 只有投票成员和 FIG 秘书长可以发起投票，对某事进行表决。
 
-2. Only voting members may vote on a measure.
+2. 只有投票成员可以投票表决。
 
-3. The time limit on a vote is 14 days from the time of the call for votes, or
-until all voting members have cast their vote, whichever comes first. Votes
-cast after the time limit are not valid.
+3. 一个投票的时间限制是投票发起开始的 14 天，或所有投票成员都已投出他们的票，先达到哪个都会投票结束。超出时间限制的投票无效。
 
-4. Votes can be +1 ("in favor"), -1 ("against"), or 0 ("abstain").
+4. 投票可以是 +1（赞成、喜欢），-1（反对），或 0（弃权）。
 
-5. One-third or more of the *voting members* must vote within the time limit
-for the vote to be valid. This is the equivalent of establishing a quorum. For
-example:
+5. 三分之一以上的投票成员必须在时间限制内投票该表决结果才有效。这等于建立了一个法定人数。例如：
 
-        - If there are 20, 21, or 22 members, then 7 or more must vote within the
-          time limit for the vote to be valid.
+        - 如果共有 20，21 或 22 名投票成员，则 7 或 7 名以上成员在时间限制内投票，表决才有效。
 
-        - If there are 23, 24, or 25 members, then 8 or more must vote within the
-          time limit for the vote to be valid.
+        - 如果共有 23，24 或 25 名投票成员，则 8 或 8 名以上成员在时间限制内投票，表决才有效。
 
-6. The measure passes if a simple majority of the *votes cast* are "in favor".
-The measure does not pass otherwise. For example:
+6. 如果多数投票都是赞成，则表决通过。其它则表决不通过。例如：
 
-        - If there are 10 or 11 votes cast, 6 or more must be "in favor".
+        - 如果共有 10 或 11 张投票，则需要 6 或 6 张以上的赞同票。
 
-        - If there are 12 or 13 votes cast, 7 or more must be "in favor".
+        - 如果共有 12 或 13 张投票，则需要 7 或 7 张以上的赞同票。
 
 7. Measures passed are not binding. A vote "in favor" of a measure is an
 indication that the measure is approved, but the voting member may not be able

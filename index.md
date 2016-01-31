@@ -1,4 +1,4 @@
-# PHP Standard Recommendations
+# PHP 标准推荐
 
 According to the [PSR Workflow Bylaw][workflow] each PSR has a status as it is being worked on. Once a proposal has passed the Entrance Vote it will be listed here as "Draft". Unless a PSR is marked as "Accepted" it is subject to change. Draft can change drastically, but Review will only have minor changes.
 
