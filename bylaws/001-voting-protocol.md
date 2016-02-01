@@ -21,21 +21,17 @@
 
         - 如果共有 12 或 13 张投票，则需要 7 或 7 张以上的赞同票。
 
-7. Measures passed are not binding. A vote "in favor" of a measure is an
-indication that the measure is approved, but the voting member may not be able
-to apply it immediately for reasons outside the purview of this group.
+7. 通过的表决并不具备约束力。一个“赞成”的表决表明该表决已经被通过，但投票成员可能因为工作组以外的原因并不会立刻实施它。
 
-8. Votes on membership requests represent a special case:
+8. 关于会员身份的投票代表一种特殊情况：
 
-        - Regarding point 1, they may be initiated by non-members.
+        - 关于第 1 点，投票也许由非会员发起。
 
-        - Regarding point 7, it is binding on all members.
+        - 关于第 7 点，对所有会员都有约束力。
 
-9. Responsibility for vote tallying is shared between the member who starts a vote
-and the FIG Secretaries, both of whom should confirm the result.
+9. 计票的责任由投票发起者和 FIG 秘书长共同完成，两者都应该确认投票结果。
 
 * * *
 
-N.b.: "Abstain" votes are counted only for quorum, and are not counted when
-calculating majority.
+注意：“弃权”票仅用做法定人数计票，不用于计算多数。
 
