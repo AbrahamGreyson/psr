@@ -1,10 +1,12 @@
 # PHP 标准推荐
 
-According to the [PSR Workflow Bylaw][workflow] each PSR has a status as it is being worked on. Once a proposal has passed the Entrance Vote it will be listed here as "Draft". Unless a PSR is marked as "Accepted" it is subject to change. Draft can change drastically, but Review will only have minor changes.
+根据 [PSR 工作流章程][workflow]，每个 PSR 
+都对应一个状态，因为其正在处理中。一旦某个提议被通过，投票入口将以“草案”的形式列举在这。除非一个 PSR 
+被标注为“已通过”，否则它随时有可能更改。草案可能彻底更改，但“审阅”只可能会小幅度更改。
 
 As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors, of a proposal are the essentially the lead contributors and writers of the PSRs and they are supported by two voting members. Those voting members are the Coordinator who is responsible for managing the review stage and votes; and a second sponsor.
 
-## Index by Status
+## 按状态索引 
 
 ### Deprecated
 
@@ -40,9 +42,9 @@ As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors,
 | 12  | [Extended Coding Style Guide][psr12] | Michael Cullum                 | Korvin Szanto           | Alexander Makarov |
 | 13  | [Hypermedia Links][psr13]            | Larry Garfield                 | Matthew Weier O'Phinney | Evert Pot         |
 
-## Numerical Index
+## 编号索引 
 
-| Status | Num | Title                                | Editor(s)                      |  Coordinator   | Sponsor                    |
+|  状态   | 编号|               标题                    | Editor(s)                  |  Coordinator   | Sponsor                    |
 |--------|:---:|--------------------------------------|--------------------------------|-------------------------|-------------------|
 | X      | 0   | [Autoloading Standard][psr0]         | _N/A_                          | _N/A_                   | _N/A_             |
 | A      | 1   | [Basic Coding Standard][psr1]        | _N/A_                          | _N/A_                   | _N/A_             |
@@ -59,9 +61,9 @@ As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors,
 | D      | 12  | [Extended Coding Style Guide][psr12] | Korvin Szanto                  | Alexander Makarov       | Robert Deutz      |
 | D      | 13  | [Hypermedia Links][psr13]            | Larry Garfield                 | Matthew Weier O'Phinney | Evert Pot         |
 
-_**Legend:** A = Accepted | D = Draft | R = Review | X = Deprecated_
+_**说明：** A = 已通过 | D = 草案 | R = 审阅中 | X = 已弃用_
 
-[workflow]: http://www.php-fig.org/bylaws/psr-workflow/
+[workflow]: http://www.php-fig.org.cn/bylaws/psr-workflow/
 [psr0]: /psr/psr-0/
 [psr1]: /psr/psr-1/
 [psr2]: /psr/psr-2/
