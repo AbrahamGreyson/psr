@@ -1,11 +1,9 @@
-Membership
+成员身份
 ==========
 
-The membership of the PHP Framework Interoperability Group (PHP-FIG) is
-comprised of Member Projects. This bylaw defines the rules and rights of
-membership.
+PHP 框架互用工作组（PHP-FIG）的成员身份由成员项目构成。本章程定义了成员的规则与权利。
 
-Definitions
+定义
 -----------
 
 <dl>
@@ -22,7 +20,7 @@ Definitions
     </dd>
 </dl>
 
-Membership List
+成员列表
 ---------------
 
 The current Member Projects in PHP-FIG will be listed at the following URL:
@@ -32,7 +30,7 @@ This list must also indicate the names of the current Voting Representative for
 each Member Project. This list must be updated for any change in the composition
 of Member Projects or Voting Representatives.
 
-Membership Application
+成员应用
 ----------------------
 
 To cast votes on PHP-FIG proposals, it is required that a PHP project apply to
@@ -67,7 +65,7 @@ Member Project with immediate effect.
 There are no restrictions on the number of times a PHP project may apply to
 become a Member Project.
 
-Voting Representatives
+投票代表
 -----------------------
 
 The votes of all Member Projects are cast by Voting Representives who have been
