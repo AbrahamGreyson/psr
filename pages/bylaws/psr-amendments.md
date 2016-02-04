@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: PSR Amendments
+title: PSR 修订
 permalink: bylaws/psr-amendments/
 ---
 

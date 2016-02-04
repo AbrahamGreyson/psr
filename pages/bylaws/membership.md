@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: Membership
+title: 成员身份
 permalink: bylaws/membership/
 ---
 

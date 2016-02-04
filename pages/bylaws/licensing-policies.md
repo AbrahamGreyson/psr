@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: Licensing Policies
+title: 许可政策
 permalink: bylaws/licensing-policies/
 ---
 

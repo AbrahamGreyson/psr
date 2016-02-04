@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: PSR Naming Conventions
+title: PSR 命名约定
 permalink: bylaws/psr-naming-conventions/
 ---
 

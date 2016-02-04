@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: PSR Workflow
+title: PSR 工作流
 permalink: bylaws/psr-workflow/
 ---
 

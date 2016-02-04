@@ -1,6 +1,6 @@
 ---
 layout: bylaw
-title: Voting Protocol
+title: 投票协议
 permalink: bylaws/voting-protocol/
 ---
 
