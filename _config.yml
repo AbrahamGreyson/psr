@@ -4,7 +4,7 @@ lsi:         false
 highlighter: pygments
 permalink:   /news/:title/
 exclude:     [vendor]
-markdown:    redcarpet
+markdown:    kramdown
 redcarpet:
   extensions: [tables, with_toc_data]
 gems:
