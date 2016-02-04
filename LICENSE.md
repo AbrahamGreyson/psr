@@ -1,6 +1,5 @@
-# License
+# 许可
 
-Unless stated otherwise, all content is licensed under the Creative Commons 
-Attribution License and code licensed under the MIT License.
+除非另据说明，所有文字内容根据创作共同许可发布，所有代码根据 MIT 许可发布。
 
-Copies of all licenses are included in this project's root directory.
+所有许可证的副本已经被包含在项目根目录下。
