@@ -9,41 +9,36 @@ PHP 框架互用工作组
 
 要提交一个 PHP 推荐标准（PSR）：
 
-- Fork [fig-standards][fig-official] 仓库，创建新的分支， checkout 到新分支，添加 PSR 到 
+- Fork [fig-standards][fig-official] 仓库，创建新的分支，checkout 到新分支，添加 PSR 到 
 `proposed/`，push 分支到 Github，发送 pull request；或者，
 
 - 在 Github 创建一个 issue 开始讨论；或者，
 
 - 在[邮件列表][mailing-list]开始一段对话。
-- start a conversation on the [mailing list][].
 
 [mailing-list]: http://groups.google.com/group/php-fig/
 [fig-official]: http://github.com/php-fig/fig-standards
 GitHub 用途
 ------------
 
-All discussion regarding a PSR happens on the [mailing list][]. Issues filed
-in GitHub are rarely monitored, and PRs are likely to be missed unless a message
-is sent to the mailing list regarding them.  Reviews of a proposed PSR should be
-conducted on the mailing list, not through PR comments for the same reason.
-
-Please do not simply file an issue or PR and walk-away.  The most likely outcome
-is that it will never get seen or addressed.
+所有关于 PSR 的讨论都在[邮件列表][mailing-list]中进行。Github 中的 Issues 较少梳理，Pull Request 
+也很可能错过审阅，除非一封与之有关的信息发送到邮件列表。对于 PSR 提议的审阅和讨论应该也在邮件列表中管理，出于以上原因，也不通过 Pull 
+Request 评论的方式讨论。
 
 申请会员身份
 ---------------------
 
-你**不需要**成为投票成员菜能参与[邮件列表][mailing-list]中的讨论。
+你**不需要**成为投票成员才能参与[邮件列表][mailing-list]中的讨论。
 
-要成为投票成员，你必须发送一个申请邮件至[邮件列表][mailing-list]，详情见[成员身份章程][membership-bylaw]，以下是一份概要：
+要成为投票成员，必须发送一个申请邮件至[邮件列表][mailing-list]，详情见[成员身份章程][membership-bylaw]，以下是一份概要：
 
 - 邮件标题应该为：`Membership Request: {$your_name} ({$project_name})`。
 
 - 邮件内容应该包含你的名字，你代表的项目的名字和链接，以及其它你觉得有必要的相关细节。
 
-- 当前的成员将会就你的请求进行投票。
+- 当前成员将会就你的请求进行投票。
 
-请勿在单独的邮件内包含多个申请，一个申请对应一个邮件。
+请勿在单独的邮件内包含多个申请，一个申请对应一封邮件。
 
 [membership-bylaw]: http://www.php-fig.org.cn/bylaws/membership/
 语言 & 翻译
