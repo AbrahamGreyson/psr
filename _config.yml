@@ -1,7 +1,7 @@
 # jekyll config
 safe:        true
 lsi:         false
-highlighter: pygments
+highlighter: rouge
 permalink:   /news/:title/
 exclude:     [vendor]
 markdown:    kramdown
