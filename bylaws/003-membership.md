@@ -23,56 +23,37 @@ PHP 框架互用工作组（PHP-FIG）的成员身份由成员项目构成。本
 成员列表
 ---------------
 
-The current Member Projects in PHP-FIG will be listed at the following URL:
-http://www.php-fig.org/
+当前 PHP-FIG 的成员项目将被列举在这个页面： http://www.php-fig.org.cn/members/
 
-This list must also indicate the names of the current Voting Representative for
-each Member Project. This list must be updated for any change in the composition
-of Member Projects or Voting Representatives.
+这个列表还必须标出各个成员项目当前的投票代表。当成员项目或投票代表有所变动时，这个列表必须要更新。
 
 成员应用
 ----------------------
 
-To cast votes on PHP-FIG proposals, it is required that a PHP project apply to
-become a Member Project. This application may be submitted by any individual who
-is authorised by the PHP project in question to do so.
+为 PHP-FIG 提议进行投票，要求 PHP 项目申请成为成员项目。申请可以被该 PHP 项目授权的任何个体提交。
 
-The application must be emailed to the main [php-fig mailing list][list] and
-is restricted to one application per email. In order to be considered, all
-applications must be sponsored in advance by at least one existing Voting
-Representative.
+申请必须以邮件形式发送给 [PHP-FIG 邮件列表][list] 
+并限制为每个邮箱仅对应一个申请。为了保证申请是经慎重考虑的，所有申请必须得到至少一位投票代表的预先担保。
 
-The subject of the email must follow the following format:
+邮件标题必须符合以下格式：
 
     Membership Request: {$your_name} ({$project_name})
+    
+邮件内容应该提供要申请成员身份的 PHP 项目细节，包括名称，URL，发起提议的投票代表名字，给予担保的投票代表名字，以及其它任何 PHP 
+项目的申请者认为有必要包含的细节。
 
-The body of the email should provide details of the PHP project applying for
-membership including its name, URL, the name of the proposed Voting
-Representative, the name of the Voting Representative sponsor and any other
-details that the individual applying on behalf of the PHP project believes are
-necessary to include.
+从会员身份发起请求到开始投票必须至少历时两周，从而方便进行必要的讨论。
 
-There must be a minimum two week period from the membership request being made
-before voting can begin to allow for necessary discussions.
+接下来成员身份申请的表决可以由已有的成员项目根据投票协议章程进行。PHP-FIG 必须执行检查以便确保申请是有效的，并且申请人的代表已经得到了对应 PHP
+ 项目的授权。一旦表决完成并且申请被通过，该 PHP 项目将成为成员项目，立即生效。
 
-The membership application can then be voted upon by the existing Member Projects
-in accordance with the [Voting Protocol bylaw][voting]. PHP-FIG must perform
-checks to ensure that each application is valid and authorised by the PHP
-project that the applicant claims to act on behalf of. Once voting has completed
-and if the application has been deemed accepted, the PHP project will become a
-Member Project with immediate effect.
-
-There are no restrictions on the number of times a PHP project may apply to
-become a Member Project.
+PHP 项目可能会申请成为成员项目的次数没有限制。
 
 投票代表
 -----------------------
 
-The votes of all Member Projects are cast by Voting Representives who have been
-authorised to do so by the Member Project. Each Voting Representative is chosen
-solely by a Member Project and their selection is not subject to the approval
-of PHP-FIG. A Voting Representative may be replaced by the Member Project which
-they represent at any time.
+所有成员项目投出的票都是由成员项目授权的投票代表完成。各个投票代表都由成员项目单独选择，并不需要等待 PHP-FIG 
+批准。投票代表可以在任何时间被其代表的成员项目替换掉。
 
 To prevent illegal or erroneous voting, the Voting Representative must be
 confirmed by the Member Project to be authorised to act in such a capacity
