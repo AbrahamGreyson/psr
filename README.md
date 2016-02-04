@@ -1,28 +1,25 @@
-PHP Framework Interoperability Group
+PHP 框架互用工作组
 ====================================
 
-The idea behind the group is for project representatives to talk about the
-commonalities between our projects and find ways we can work together. Our main
-audience is each other, but we’re very aware that the rest of the PHP community
-is watching. If other folks want to adopt what we’re doing they are welcome to
-do so, but that is not the aim.
+工作组的想法是项目代表讨论项目之间的共性并找到更好的合作方式。虽然主要受众是成员彼此，但我们很清楚 PHP 社区的其它人也在密切关注。如果其它人想要采用我们的成果，我们欢迎，但那并不是我们的目标
 
 
-Proposing a Standard Recommendation
+提议一个 PHP 推荐标准
 ------------------------------------
 
-To propose a PHP Standard Recommendation (PSR):
+要提交一个 PHP 推荐标准（PSR）：
 
-- fork this repo, create a branch, checkout that branch, add the PSR in
-  `proposed/`, push the branch to Github, and send a pull request; or,
+- Fork [fig-standards][fig-official] 仓库，创建新的分支， checkout 到新分支，添加 PSR 到 
+`proposed/`，push 分支到 Github，发送 pull request；或者，
 
-- create a ticket to start a discussion on Github; or,
+- 在 Github 创建一个 issue 开始讨论；或者，
 
+- 在[邮件列表][mailing-list]开始一段对话。
 - start a conversation on the [mailing list][].
 
-[mailing list]: http://groups.google.com/group/php-fig/
-
-GitHub usage
+[mailing-list]: http://groups.google.com/group/php-fig/
+[fig-official]: http://github.com/php-fig/fig-standards
+GitHub 用途
 ------------
 
 All discussion regarding a PSR happens on the [mailing list][]. Issues filed
@@ -33,36 +30,31 @@ conducted on the mailing list, not through PR comments for the same reason.
 Please do not simply file an issue or PR and walk-away.  The most likely outcome
 is that it will never get seen or addressed.
 
-Requesting Membership
+申请会员身份
 ---------------------
 
-You **do not** need to be a voting member to participate in discussion on
-the [mailing list][].
+你**不需要**成为投票成员菜能参与[邮件列表][mailing-list]中的讨论。
 
-To become a voting member, you must send an email to the [mailing list][].
+要成为投票成员，你必须发送一个申请邮件至[邮件列表][mailing-list]，详情见[成员身份章程][membership-bylaw]，以下是一份概要：
 
-- The subject line should read: `Membership Request: {$your_name} ({$project_name})`
+- 邮件标题应该为：`Membership Request: {$your_name} ({$project_name})`。
 
-- The body should include your name, the name of (and link to) the project you
-  represent, and other details you feel are relevant.
+- 邮件内容应该包含你的名字，你代表的项目的名字和链接，以及其它你觉得有必要的相关细节。
 
-- Current members will vote on your request.
+- 当前的成员将会就你的请求进行投票。
 
-Do not combine separate membership requests in a single thread; one request
-per thread, please.
+请勿在单独的邮件内包含多个申请，一个申请对应一个邮件。
 
-Language & Translations
+[membership-bylaw]: http://www.php-fig.org.cn/bylaws/membership/
+语言 & 翻译
 -----------------------
 
-All PSRs are written in British English or American English (Different specifications
-may vary, but it is consistent within the same specification). The PHP FIG does not
-offer official translations into other languages but other external entities are free
-to translate the specifications in accordance with the license.
+所有 PSR 都使用英式英语和美式英语写就（不同标准可能不同，但同一标准内行文风格始终保持一致，例如不会在 PSR-2 
+中同时出现两种风格）。PHP-FIG 并不提供其它语言的官方译文，其它外部单位可以依照 PHP-FIG 许可任意翻译。
 
-
-Voting Members
+投票成员
 --------------
 
-The current list of voting members is available on the [project website][].
+这里有一份当前投票成员的[完整列表][members]。
 
-[project website]: http://www.php-fig.org/
+[members]: http://www.php-fig.org.cn/members/
