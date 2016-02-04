@@ -1,19 +1,13 @@
-# Contributing to the PHP-FIG
+# 参与 PHP-FIG
 
-Anybody who subscribes to the Google Group, is part of the PHP-FIG. As soon as
-you subscribe to the [mailing list](http://groups.google.com/group/php-fig/)
-and/or join the [IRC channel](http://www.php-fig.org/irc/) you are a PHP-FIG
-Community Member, who can influence standards, make suggestions, give feedback,
-etc. Only PHP-FIG Voting Members can start or participate in votes, but the
-discussion and formation stages involve everyone.
+任何订阅了 Google Group 的人都是 PHP-FIG 的一份子。只要你订阅了[邮件列表](http://groups.google.com/group/php-fig/))或加入了 [IRC 聊天频道](http://www.php-fig.org/irc/)，你就成为了 PHP-FIG 社区成员，可以影响标准制定，提出建议，给予反馈等等。只有 PHP-FIG 的投票成员可以发起或参与投票，但讨论和形成阶段每个人都可以参与。
 
-See the [PHP-FIG FAQ](http://www.php-fig.org/faqs/) for more information.
+查看[常见问题](http://www.php-fig.org/faqs/)了解更多信息。
 
-# Licensing
+# 许可
 
-By contributing code you agree to license your contribution under the MIT
-license.
+以代码方式参与，意味着你同意将你的代码以 MIT 许可发布。
 
-By contributing documentation, examples, or any other non-code assets you agree
-to license your contribution under the CC BY 3.0 license. Attribution shall be
-given according to the current bylaws of this group.
+以文档，演示或任何其它非代码资源参与，意味着你同意将内容以 CC 3.0 许可发布。
+
+署名也将根据工作组现有章程赋予。
