@@ -78,44 +78,30 @@ PHP-FIG
 开除成员项目
 ----------------------------
 
-成员项目可能被从 PHP-FIG 开除。如果，根据 PHP-FIG 的判断，
+成员项目可能被从 PHP-FIG 开除。如果，根据 PHP-FIG 的判断
 A Member Project may be expelled from PHP-FIG if, in the judgement of PHP-FIG,
 that Member Project has not casted votes in three consecutive voting calls or all voting
 calls over a period no less than six months whichever constitutes the greater
 period of time. It is the responsibility of Member Projects to ensure that they
 are actively represented by a Voting Representative.
 
-A Member Project may also be expelled if their Voting Representative is subject
-to a replacement request from PHP-FIG but a suitable replacement is not
-available.
+成员项目还存在一种被开除的情况，当 PHP-FIG 要求替换该项目的投票代表，但没有合适任选时。
 
-The expulsion of a Member Project requires a vote in accordance with the
-[Voting Protocol bylaw][voting].
+成员项目的开除，需要按照[投票协议章程][voting]之规定进行投票表决。
 
-FIG Secretary
+FIG 书记
 -------------
 
-### Overarching role
+### 首要作用
 
-The primary responsibility of the FIG Secretary is to serve as an impartial
-administrator of the FIG. They serve at the member projects pleasure but act as
-independent and impartial adjudicators. FIG Secretaries will also represent the
-FIG as a whole to the general community and public on matters relating to the
-FIG's activities.
+FIG 书记的主要职责是作为 FIG 的公平管理员。他们乐于服务各个成员项目，但行为独立，裁定公正。对于一般社区和与 FIG 活动有关的公共事项，FIG 
+书记还代表 FIG 整体。
 
-Whilst there are a number of defined functions below but they should also perform
-other duties as required. As the role has continuity (in that there will always
-be a post holder) and redundancy (There are a number of post holders in case of
-the absence of one) it can be ensured that responsibilities assigned to the
-secretary will always be completed and therefore administrative responsibilities
-such as vote management should always be assigned to the FIG Secretary.
+虽然书记有一系列的预定义功能，但他们也应该按要求履行其它职责。由于书记角色有连贯性（因为总是会有一个在岗书记）和冗余性（有多位在岗人员以防其中一位暂时缺席），可以保证其特定职责能被完成，因此投票管理之类的管理职责也可以始终分配给 FIG 书记。
 
-All FIG Secretaries are expected to remain impartial and professional when acting
-in an official capacity as secretary and should also remain aware that even when
-not acting in an official capacity, their actions reflect back on the PHP FIG and
-the FIG must not be brought into disrepute.
+所有 FIG 书记都要求在作为官方身份书记时保持公平与专业，同时也应该注意，即使在官方身份之外，他们的行为也会反射回 PHP-FIG，不能令 FIG 声名狼藉。
 
-### Defined functions
+### 预定义功能
 
 There are a number of defined functions that the FIG Secretaries are expected to
 complete but they may also, within their remit defined in the above overarching
