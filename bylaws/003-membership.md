@@ -55,45 +55,30 @@ PHP 项目可能会申请成为成员项目的次数没有限制。
 所有成员项目投出的票都是由成员项目授权的投票代表完成。各个投票代表都由成员项目单独选择，并不需要等待 PHP-FIG 
 批准。投票代表可以在任何时间被其代表的成员项目替换掉。
 
-To prevent illegal or erroneous voting, the Voting Representative must be
-confirmed by the Member Project to be authorised to act in such a capacity
-by sending an email to the main [php-fig mailing list][list]. This email
-may be combined with a Member Application if the applicant has sufficient
-authority. The other Member Projects may seek such confirmation at any time
-during the Voting Representative's term.
+为防止非法或错误投票，投票代表必须由对应成员项目通过发送一封资格确认邮件至[邮件列表][list
+]进行确认。如果申请人足够权威，资格确认邮件可以和成员身份申请一并进行。其它成员项目可以在投票代表任期内确认其资格。
 
-A Member Project may not have more than one Voting Representative at a time.
+一个成员项目可以同时拥有多个投票代表。
 
-A Voting Representative may temporarily confer their voting rights onto another
-individual who is authorised by the Member Project which they represent. This
-conferral must be notified to PHP-FIG by the current Voting Representative
-by sending an email to the main [php-fig mailing list][list]. This email
-must state the name of the temporary Voting Representative and the period of
-time for which their temporary voting rights will remain valid. All voting
-rights will automatically return to the original Voting Representative at the
-end of the period of time stated in this email. All dates noted should reference
-a timezone. Where a timezone is not referenced, Coordinated Universal Time (UTC)
-will be assumed.
+如果得到所在的成员项目授权，投票代表可以临时授予其投票权至其它人。授权必须由当前投票代表通过发送邮件至[邮件列表][list]通知 
+PHP-FIG
+。邮件中必须说明临时投票代表的名字和其临时投票权的有效期。在邮件说明的有效期结束，所有投票权将自动归还给原始的投票代表。所有写明的日期都应该包含时区。如果没有写明时区，则被看作 UTC 时间。
 
-If, in the judgement of PHP-FIG, a Voting Representative is acting
-inappropriately and to the detriment of PHP-FIG's ability to meet its
-objectives, a vote may be taken to request a replacement Voting Representative in
-accordance with the [Voting Protocol bylaw][voting] or to expel the Member
-Project where replacing a Voting Representative is not possible.
+如果，根据 PHP-FIG 的判断，一个投票代表行为失当并有损 PHP-FIG 
+实现自身目标的能力，根据[投票协议章程][voting]，可能会发起替换掉对应投票代表的决议，如果替换投票代表没能成行，将会开除对应的成员项目。
 
-Resignation Of Member Projects
+成员项目辞呈
 ------------------------------
 
-A Member Project may resign from PHP-FIG in writing to the main
-[php-fig mailing list][list] or by stating their intention to do so on another
-official public channel. Once such a statement is published, a PHP project
-immediately ceases to be a Member Project.
+成员项目可以从 PHP-FIG 辞职，通过发送一封辞职邮件至[邮件列表][list]或通过其它渠道陈述意图。一旦陈述发布，该 PHP 
+项目即刻退出成员项目。
 
-A former Member Project may reapply for membership at any future date.
+前成员项目可以在未来任何时间再次申请成员身份。
 
-Expulsion Of Member Projects
+开除成员项目
 ----------------------------
 
+成员项目可能被从 PHP-FIG 开除。如果，根据 PHP-FIG 的判断，
 A Member Project may be expelled from PHP-FIG if, in the judgement of PHP-FIG,
 that Member Project has not casted votes in three consecutive voting calls or all voting
 calls over a period no less than six months whichever constitutes the greater
